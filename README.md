@@ -1,4 +1,4 @@
-taller
+cajonDesastre
 ======
 
-Prácticas y apuntes desarrollados durante el taller
+repositorio de todo lo que comúnmente se conoce como "miscelánea"
